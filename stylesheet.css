@@ -70,6 +70,7 @@ body {
 .home-content h3 {
     font-size: 32px;
     font-weight: 700;
+    width: 60%;
 
     opacity: 0;
     animation: slideBottom 1s ease forwards;
@@ -99,7 +100,8 @@ body {
 
 .home-content p {
     font-size: 20px;
-
+    width: 60%;
+    text-align: left;
     opacity: 0;
     animation: slideLeft 1s ease forwards;
 }
