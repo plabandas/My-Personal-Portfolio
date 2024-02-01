@@ -280,11 +280,13 @@ section{
 
     justify-content: center;
 }
+#skills{
+    justify-content: center;
+}
 .container1{
-    width: 600px;
+    width: 80%;
     height: 500px;
     padding: 75px 90px;
-    margin-left: 120px;
 }
 .heading1{
     text-align: center;
